@@ -1,0 +1,4 @@
+#Tue Nov 21 00:22:42 IST 2023
+base.0=J\:\\Company Project\\resumebuilder\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
